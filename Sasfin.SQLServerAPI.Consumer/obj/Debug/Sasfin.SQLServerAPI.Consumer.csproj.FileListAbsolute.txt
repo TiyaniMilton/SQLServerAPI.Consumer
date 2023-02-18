@@ -1,0 +1,8 @@
+C:\Users\v-tiyani.magomani\source\repos\Sasfin.SQLServerAPI.Consumer\Sasfin.SQLServerAPI.Consumer\bin\Debug\Sasfin.SQLServerAPI.Consumer.dll
+C:\Users\v-tiyani.magomani\source\repos\Sasfin.SQLServerAPI.Consumer\Sasfin.SQLServerAPI.Consumer\bin\Debug\Sasfin.SQLServerAPI.Consumer.pdb
+C:\Users\v-tiyani.magomani\source\repos\Sasfin.SQLServerAPI.Consumer\Sasfin.SQLServerAPI.Consumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-tiyani.magomani\source\repos\Sasfin.SQLServerAPI.Consumer\Sasfin.SQLServerAPI.Consumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v-tiyani.magomani\source\repos\Sasfin.SQLServerAPI.Consumer\Sasfin.SQLServerAPI.Consumer\obj\Debug\Sasfin.SQLServerAPI.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\v-tiyani.magomani\source\repos\Sasfin.SQLServerAPI.Consumer\Sasfin.SQLServerAPI.Consumer\obj\Debug\Sasfin.SQLServerAPI.Consumer.csproj.CopyComplete
+C:\Users\v-tiyani.magomani\source\repos\Sasfin.SQLServerAPI.Consumer\Sasfin.SQLServerAPI.Consumer\obj\Debug\Sasfin.SQLServerAPI.Consumer.dll
+C:\Users\v-tiyani.magomani\source\repos\Sasfin.SQLServerAPI.Consumer\Sasfin.SQLServerAPI.Consumer\obj\Debug\Sasfin.SQLServerAPI.Consumer.pdb
